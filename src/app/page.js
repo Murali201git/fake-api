@@ -1,4 +1,4 @@
-import Cards from './Components/cards';
+import Cards from './components/cards';
 
 export default async function HomePage() {
   return (
